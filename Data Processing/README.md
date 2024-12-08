@@ -1,4 +1,4 @@
-#**Data Processing**
+# **Data Processing**
 
 This folder contains examples of data preprocessing workflows using Stata. These files demonstrate my ability to compile and process large datasets efficiently while ensuring flexibility for collaboration and modification. Both files are part of the same research project.
 
