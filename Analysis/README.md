@@ -1,6 +1,7 @@
+# **Analysis**
 This folder contains examples of econometric analysis that I have developed. The projects in this folder highlight my ability to use statistical programming tools such as Stata and Python for research and policy analysis.
 
-**Contents**
+## **Contents**
 
 rbg3_synthetic_control.do
 - Description: Stata .do file analyzing the impact of the "Read by Three" policy in Nevada. This policy mandates a reading curriculum aimed at improving reading scores within the state.
